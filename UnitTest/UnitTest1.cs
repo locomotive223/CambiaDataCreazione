@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
+using System.IO;
 
 namespace UnitTest
 {
@@ -19,11 +19,16 @@ namespace UnitTest
             {
                 File.Delete(path);
                 
+                
             }
             File.Create(path);
             TextWriter tw = new StreamWriter(path);
             tw.WriteLine("The very first line!");
             tw.Close();
+
+            var a = File.GetCreationTime(path);
+            Assert.AreEqual(a, System.DateTime.Now);
+            
         }
     }
 }
