@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CambiaDataCreazione", "CDC\ConsoleApp1\CambiaDataCreazione.csproj", "{F323D093-9016-4A64-BA31-5B58B50CC37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{A173C810-C35C-4478-B835-99D23175F53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Debug|x86.Build.0 = Debug|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Release|x86.ActiveCfg = Release|Any CPU
+		{F323D093-9016-4A64-BA31-5B58B50CC37E}.Release|x86.Build.0 = Release|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Debug|x86.Build.0 = Debug|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Release|x86.ActiveCfg = Release|Any CPU
+		{A173C810-C35C-4478-B835-99D23175F53C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5523A7DE-B361-49D6-A943-EEA70023A03B}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\bin\Debug\CambiaDataCreazione.exe.config
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\bin\Debug\CambiaDataCreazione.exe
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\bin\Debug\CambiaDataCreazione.pdb
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\obj\x86\Debug\CambiaDataFile.csprojResolveAssemblyReference.cache
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\obj\x86\Debug\CambiaDataCreazione.exe
+F:\SRC\CambiaDataCreazione\CambiaDataCreazione\obj\x86\Debug\CambiaDataCreazione.pdb
