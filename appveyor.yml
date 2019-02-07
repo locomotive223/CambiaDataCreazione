@@ -4,12 +4,9 @@ configuration:
  - Release
 before_build:
  - ps: nuget restore
- notifications:
-
-  # Email
-  - provider: Email
-    to:
-      - scatena.guido@gmail.com
+notifications:
+ - provider: Email
+    to: scatena.guido@gmail.com
     subject: 'Build {{status}}'                  # optional
     message: "{{message}}, {{commitId}}, ..."    # optional
     on_build_status_changed: true
