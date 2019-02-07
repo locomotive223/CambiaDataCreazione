@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
-using static CambiaDataCreazione.Program;
+using static CambiaDataCreazioneLIB.Lib;
 
 namespace UnitTest
 {
