@@ -6,3 +6,9 @@ mono:
 env:
  - CFG=Debug
  - CFG=Release
+
+ install:
+- travis_retry nuget restore -source "https://www.nuget.org/api/v2" ./CambiaDataCreazione.sln
+script:
+- xbuild ./CambiaDataCreazione.sln
+- mono ./packages/xunit.runner.console*/tools/xunit.console.exe ./UnitTest/obj/Debug/netcoreapp2.2/UnitTest.dll
