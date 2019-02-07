@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "CambiaDataCreazione/1.0.0": {
+        "dependencies": {
+          "CambiaDataCreazioneLIB": "1.0.0"
+        },
         "runtime": {
           "CambiaDataCreazione.dll": {}
+        }
+      },
+      "CambiaDataCreazioneLIB/1.0.0": {
+        "runtime": {
+          "CambiaDataCreazioneLIB.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CambiaDataCreazione/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CambiaDataCreazioneLIB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1617,6 +1617,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "CambiaDataCreazioneLIB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/CambiaDataCreazioneLIB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambiaDataCreazioneLIB.dll": {}
+        }
       }
     }
   },
@@ -5801,10 +5811,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "CambiaDataCreazioneLIB/1.0.0": {
+      "type": "project",
+      "path": "../CambiaDataCreazioneLIB/CambiaDataCreazioneLIB.csproj",
+      "msbuildProject": "../CambiaDataCreazioneLIB/CambiaDataCreazioneLIB.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "CambiaDataCreazioneLIB >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
@@ -5840,7 +5856,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "Z:\\SRC\\UNIPI\\CambiaDataCreazione\\CambiaDataCreazioneLIB\\CambiaDataCreazioneLIB.csproj": {
+              "projectPath": "Z:\\SRC\\UNIPI\\CambiaDataCreazione\\CambiaDataCreazioneLIB\\CambiaDataCreazioneLIB.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
