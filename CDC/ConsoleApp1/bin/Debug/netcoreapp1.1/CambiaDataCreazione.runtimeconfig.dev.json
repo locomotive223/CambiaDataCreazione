@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\scate\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\scate\\.nuget\\packages"
+    ]
+  }
+}

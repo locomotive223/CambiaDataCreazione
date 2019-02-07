@@ -1,0 +1,9 @@
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\bin\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.deps.json
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\bin\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\bin\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.pdb
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.csprojAssemblyReference.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.csproj.CoreCompileInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.AssemblyInfoInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.AssemblyInfo.cs
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\CambiaDataCreazioneLIB\obj\Debug\netcoreapp2.1\CambiaDataCreazioneLIB.pdb

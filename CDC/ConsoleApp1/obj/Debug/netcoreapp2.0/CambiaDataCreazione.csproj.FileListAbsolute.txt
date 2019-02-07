@@ -1,0 +1,14 @@
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazione.deps.json
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazione.runtimeconfig.json
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazione.runtimeconfig.dev.json
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazione.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazione.pdb
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazioneLIB.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\bin\Debug\netcoreapp2.0\CambiaDataCreazioneLIB.pdb
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.csprojAssemblyReference.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.csproj.CoreCompileInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.AssemblyInfoInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.AssemblyInfo.cs
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.csproj.CopyComplete
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\CDC\ConsoleApp1\obj\Debug\netcoreapp2.0\CambiaDataCreazione.pdb

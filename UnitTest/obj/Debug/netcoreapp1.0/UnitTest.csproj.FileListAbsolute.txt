@@ -1,0 +1,4 @@
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp1.0\UnitTest.csprojAssemblyReference.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp1.0\UnitTest.csproj.CoreCompileInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp1.0\UnitTest.AssemblyInfoInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp1.0\UnitTest.AssemblyInfo.cs

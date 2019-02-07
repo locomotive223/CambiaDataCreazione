@@ -1,0 +1,17 @@
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\UnitTest.deps.json
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\UnitTest.runtimeconfig.json
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\UnitTest.runtimeconfig.dev.json
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\UnitTest.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\UnitTest.pdb
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\CambiaDataCreazioneLIB.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\bin\Debug\netcoreapp2.0\CambiaDataCreazioneLIB.pdb
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csprojAssemblyReference.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CoreCompileInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfoInputs.cache
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfo.cs
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CopyComplete
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.dll
+Z:\SRC\UNIPI\CambiaDataCreazione\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.pdb
