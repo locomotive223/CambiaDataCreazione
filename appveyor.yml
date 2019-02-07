@@ -1,21 +1,7 @@
-image: Visual Studio 2017
+image:
+ - Visual Studio 2017
+# - ubuntu
 configuration:
  - Debug
- - Release
 before_build:
  - ps: nuget restore
-
-#---------------------------------#
-#         notifications           #
-#---------------------------------#
-
-notifications:
-
-  # Email
-  - provider: Email
-    to:
-      - scatena.guido@email.com
-      - user2@email.com
-    subject: 'Build {{status}}'                  # optional
-    message: "{{message}}, {{commitId}}, ..."    # optional
-    on_build_status_changed: true
