@@ -3,9 +3,6 @@
 # Add steps that test and distribute an app, save build artifacts, and more:
 # https://aka.ms/yaml
 
-- task: DotNetCoreInstaller@0
-    inputs:
-      version: '2.2.101'
 
 trigger:
 - master
@@ -20,6 +17,10 @@ variables:
   appxPackageDir: '$(build.artifactStagingDirectory)\AppxPackages\'
 
 steps:
+- task: DotNetCoreInstaller@0 
+  inputs:
+    version : '2.2.101'
+
 - task: NuGetToolInstaller@0
 
 - task: NuGetCommand@2
