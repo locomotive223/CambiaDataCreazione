@@ -23,10 +23,13 @@ steps:
 
 - task: NuGetToolInstaller@0
 
-- task: NuGetCommand@2
+- task: DotNetCoreCLI@2
+  displayName: dotnet restore NuGet.config
   inputs:
+    command: restore
     restoreSolution: '$(solution)'
 
+    
 - task: VSBuild@1
   inputs:
     platform: 'x86'
