@@ -36,3 +36,9 @@ steps:
     solution: '$(solution)'
     configuration: '$(buildConfiguration)'
     msbuildArgs: '/p:AppxBundlePlatforms="$(buildPlatform)" /p:AppxPackageDir="$(appxPackageDir)" /p:AppxBundle=Always /p:UapAppxPackageBuildMode=StoreUpload'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: test
+    projects: '**/*UnitTest/*.csproj'
+    arguments: '--configuration $(buildConfiguration)'
